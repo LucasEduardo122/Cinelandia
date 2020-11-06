@@ -74,6 +74,6 @@ Feito com ❤️ por Lucas Eduardo 👋🏽 Entre em contato!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-eduardo-4a11a61a2)](https://www.linkedin.com/in/lucas-eduardo-4a11a61a2) 
-[![Gmail Badge](https://img.shields.io/badge/-santosvini.rv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosvini.rv@gmail.com)](mailto:luklucas42@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luklucas42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luklucas42@gmail@gmail.com)](mailto:luklucas42@gmail.com)
 
 
