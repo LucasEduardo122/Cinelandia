@@ -29,7 +29,7 @@ Espere o Laravel terminar e starte com o xampp ou wampp 🚀
 
 ## 🗺️ Imagens
 
-![alt tag](hhttps://media.discordapp.net/attachments/571752920685477889/774078300137848833/Screenshot_2.jpg?width=878&height=406)
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/774078300137848833/Screenshot_2.jpg?width=878&height=406)
 
 ![alt tag](https://media.discordapp.net/attachments/571752920685477889/774078296429297694/Screenshot_3.jpg?width=890&height=406)
 
